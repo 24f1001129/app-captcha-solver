@@ -1,7 +1,7 @@
-# App Builder - Task captcha-solver-abc123
+# App Builder - Task captcha-solver
 
 ## Overview
-This application was automatically generated for task captcha-solver-abc123, round 2.
+This application was automatically generated for task captcha-solver, round 2.
 
 **Brief:** 
 ORIGINAL REQUEST (Round 1):
@@ -14,10 +14,10 @@ Please update the existing application to include the new requirements while mai
 
 
 ## Live Demo
-🌐 [View Live Application](https://24f1001129.github.io/app-captcha-solver-abc123/)
+🌐 [View Live Application](https://24f1001129.github.io/app-captcha-solver/)
 
 ## Repository
-📁 [GitHub Repository](https://github.com/24f1001129/app-captcha-solver-abc123)
+📁 [GitHub Repository](https://github.com/24f1001129/app-captcha-solver)
 
 ## Features
 - Responsive design with Bootstrap 5
